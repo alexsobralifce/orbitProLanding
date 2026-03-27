@@ -47,7 +47,7 @@ export function Hero() {
           className="inline-flex flex-row items-center gap-2 px-4 py-2 rounded-full bg-white/50 backdrop-blur-sm border border-gray-200/50 shadow-sm mb-8"
         >
           <span className="w-2 h-2 rounded-full bg-orbit-magenta animate-pulse" />
-          <span className="text-sm font-medium text-gray-700">Portfólio 2025 Disponível</span>
+          <span className="text-sm font-medium text-gray-700">Portfólio 2026 Disponível</span>
         </motion.div>
 
         <motion.h1
